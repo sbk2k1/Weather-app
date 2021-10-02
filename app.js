@@ -1,7 +1,7 @@
 console.log('Starting')
 
 setTimeout(() => {
- console.log('See you not for mind')
+ console.log('2 sec')
 }, 2000)
 
 console.log('Stopping')
